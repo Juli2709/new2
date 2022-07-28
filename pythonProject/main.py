@@ -8,7 +8,7 @@ print("третье число: ", c)
 print("четвертое число: ", d)
 sum1 = a + b
 sum2 = c + d
-print("сумма введенных чисел: ", sum1)
+print(" ", sum1)
 print("сумма рандомных чисел: ", sum2)
 
 while p <= 7:
